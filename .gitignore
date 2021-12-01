@@ -1,0 +1,8 @@
+bin/
+config.yaml
+config.env
+.idea/
+*.iml
+local.tfvars
+.terraform/
+terraform.tfstate*

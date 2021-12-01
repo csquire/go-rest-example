@@ -1,0 +1,9 @@
+databaseHost: localhost
+databasePort: 5432
+databaseName: docker_metadata
+databaseUser: postgres
+databasePassword:
+databaseSslMode: require
+serverPort: 8080
+basicAuthUser: nobody
+basicAuthPass: s3cr3t
